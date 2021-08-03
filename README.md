@@ -164,7 +164,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
 
 ## Co Creators
-[![King Amda](https://github.com/King-Amda.png?size=100)](https://github.com/King-Amda) | [![Black Amda] (https://github.com/BlackAmdaAmda.png?size=100)](https://github.com/BlackAmda)
+[![King Amda](https://github.com/King-Amda.png?size=100)](https://github.com/King-Amda)
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
